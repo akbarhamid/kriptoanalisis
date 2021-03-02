@@ -11,4 +11,5 @@
 [Discussion 2]
 - Membuat program kecil (console) dalam bahasa python, C, C++, dll
 - Fungsi program: menghitung frekuensi karakter dari sebuah teks atau sebuah file yang dimasukkan. Program dapat menerima file, dibaca, dihitung frekuensinya. File berupa .txt.
+- Deadline pengerjaan sampai Senin, 8 Maret 2021
 ---------------------------------------------------------
