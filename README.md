@@ -20,6 +20,9 @@
 - Misalnya huruf a digantikan dengan huruf j; maka seluruh huruf a pada berkas tersebut akan berganti menjadi j dan sebaliknya.
 - Upload kode program anda di repository anda sebelum tanggal 23 Maret 2021 pukul 21:00 WITA.
 ---------------------------------------------------------
+[Project 1]
+- Tugas Kelompok
+---------------------------------------------------------
 [Review Paper]
 - REVIEW PAPER, rangkum maks 3 halaman
 - Tugas KELOMPOK, MASING2 KELOMPOK HARUS BEDA
