@@ -29,3 +29,7 @@
 - PENGUMPULAN : UPLOAD GITHUB, BUAT FOLDER BARU REVIEW PAPER (di repo kriptoanalisis tugas sebelumnya)
 - BATAS PENGUMPULAN MINGGU DEPAN
 ---------------------------------------------------------
+[Project 2]
+- Tugas Kelompok
+- Membuat kode di dalam folder fork anda, lakukan pembangkitan bilangan prima dengan memasukkan bilangan acak yang besar membuat sebuah random number generator. dengan algoritma pembangkit bilangan acak apapun.
+---------------------------------------------------------
